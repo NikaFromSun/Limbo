@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans' 
+    rel='stylesheet' type='text/css'>
+    <link href="styles/style.css" rel="stylesheet" type="text/css">
+    <meta charset="utf-8">
+    <title>Моя вторая тестовая страница</title>
+  </head>
+  <body>
+
+    <h1>Created by KolianaS
+        <h2>-Created Websites
+            <h3>-Develop mobile apps
+                <h4>-Out-stuff developers</h4>
+            </h3>
+        </h2>
+    </h1>
+    <img src="images/firefox1.png" alt="Моё тестовое изображение">
+    <p>1) A lot of companes wich looking the best stuff called us and become a winner</p>
+    <p>2) If you little startap, we will be able to create and develop together</p>
+    <p>3) If you want to hire the best empployees, we will be glad to help you</p>
+        <ol>
+            <li>JavaScript</li>
+            <li>Html</li>
+            <li>Css</li>
+        </ol>
+    <p>We can do it today while you dream about it tomorrow</p>
+    
+    <a href="https://www.javascript.com">Kolyans-independment</a>
+  
+    <script src="scripts/main.js"></script>
+    <button>Change user</button>
+
+  </body>
+</html>
+
